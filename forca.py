@@ -1,6 +1,6 @@
 def jogar():
     print("********************************")
-    print("Bem vindo ao jogo da froca")
+    print("Bem vindo ao jogo da forca")
     print("********************************")
 
     palava_secreta = "mamao".upper()
